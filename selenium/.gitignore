@@ -1,0 +1,10 @@
+env/*
+.vscode/
+
+*.log
+*.png
+*.pyc
+
+TODO.md
+
+automation/screenshots/
